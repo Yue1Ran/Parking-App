@@ -1,5 +1,0 @@
-```bash
-
-go mod init parking-system
-go get github.com/gin-gonic/gin
-go run .
